@@ -1,6 +1,8 @@
 # Aloha 🤙🏼
 
-I'm a Staff Software Engineer and technical leader with over a decade of experience building and scaling large-scale software solutions. I'm adept at leading cross-functional teams, architecting end-to-end systems, and mentoring engineers to achieve business-critical outcomes.
+I’m a Staff Software Engineer focused on building scalable UI architecture and design systems that help product teams ship better software. Much of my work has centered on creating shared component platforms, improving frontend reliability and performance, and translating complex product workflows into maintainable interfaces.
+
+I enjoy working at the intersection of product, design, and engineering — helping teams move faster by building thoughtful foundations for user experience.
 
 My career has been dedicated to dancing across the full stack, with expertise in a wide range of technologies, including Node.js, Typescript, React Native, and AWS. I have a proven track record of successfully leading projects that have transitioned products to new business models and generated millions of dollars in revenue. My background in music has also honed a unique blend of creative and analytical problem-solving.
 
