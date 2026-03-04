@@ -4,9 +4,17 @@ I’m a Staff Software Engineer focused on building scalable UI architecture and
 
 I enjoy working at the intersection of product, design, and engineering — helping teams move faster by building thoughtful foundations for user experience.
 
-My career has been dedicated to dancing across the full stack, with expertise in a wide range of technologies, including Node.js, Typescript, React Native, and AWS. I have a proven track record of successfully leading projects that have transitioned products to new business models and generated millions of dollars in revenue. My background in music has also honed a unique blend of creative and analytical problem-solving.
+My career has been dedicated to working across the stack when needed, with expertise in a wide range of technologies, including Node.js, Typescript, React Native, and AWS. I have a proven track record of successfully leading projects that have transitioned products to new business models and generated millions of dollars in revenue. My background in music has also honed a unique blend of creative and analytical problem-solving.
 
 You can view my specialized work in UI/UX and animations on [my portfolio site](https://pstrum.github.io/portfolio/ui).
+
+### Areas I enjoy working in
+
+• UI architecture and design systems  
+• Complex product workflows and operational tools  
+• High-quality interaction design and animation  
+• Developer experience and shared component platforms  
+• Frontend performance, accessibility, and reliability
 
 ### Skills & Expertise
 
